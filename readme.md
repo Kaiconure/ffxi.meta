@@ -17,6 +17,7 @@ Each entry in this table will include the following fields:
 | en              | The name of the spell used to call this trust (English client) |
 | ja              | The name of the spell used to call this trust (Japanese client) |
 | party_name      | The name of the trust called by this spell when in a party   |
+| model           | The model number of this trust when in a party               |
 | main_job        | The three-character shorthand for the trust's main job (i.e. WAR) |
 | main_job_id     | The unique id (from the `jobs` resource) of the trust's main job |
 | sub_job         | The three-character shorthand for the trust's sub job (i.e. MNK) |
