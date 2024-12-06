@@ -40,7 +40,7 @@ return {
   [932] = {id=932,name="Fablinix",en="Fablinix",ja="ファブリニクス",party_name="Fablinix",main_job="THF",main_job_id=6,sub_job="RDM",sub_job_id=5},
   [933] = {id=933,name="Maat",en="Maat",ja="マート",party_name="Maat",main_job="MNK",main_job_id=2,sub_job="THF",sub_job_id=6},
   [934] = {id=934,name="D. Shantotto",en="D. Shantotto",ja="D.シャントット",party_name="D.Shantotto",main_job="BLM",main_job_id=4,sub_job="DRK",sub_job_id=8},
-  [935] = {id=935,name="Star Sibyl",en="Star Sibyl",ja="星の神子",party_name="StarSibyl",main_job="GEO",main_job_id=21,sub_job="BRD",sub_job_id=10},
+  [935] = {id=935,name="Star Sibyl",en="Star Sibyl",ja="星の神子",party_name="StarSibyl",main_job="GEO",main_job_id=21,sub_job="BRD",sub_job_id=10,non_interactive=true},
   [936] = {id=936,name="Karaha-Baruha",en="Karaha-Baruha",ja="カラハバルハ",party_name="Karaha-Baruha",main_job="WHM",main_job_id=3,sub_job="SMN",sub_job_id=15},
   [937] = {id=937,name="Cid",en="Cid",ja="シド",party_name="Cid",main_job="WAR",main_job_id=1,sub_job="RNG",sub_job_id=11},
   [938] = {id=938,name="Gilgamesh",en="Gilgamesh",ja="ギルガメッシュ",party_name="Gilgamesh",main_job="SAM",main_job_id=12,sub_job="WAR",sub_job_id=1},
