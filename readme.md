@@ -6,7 +6,7 @@ This repository will contain a series of supplemental Lua metadata for use in th
 
 #### Buffs
 
-Buff metadata allows you to find buffs by name, but it goes beyond that. Many buffs have more than one associated id, and we expose an interface that allows to perform several common tasks:
+Buff metadata allows you to find buffs by name, but it goes beyond that. Many buffs have more than one associated id, and we expose an interface that allows you to perform several common tasks:
 
 
 
