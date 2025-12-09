@@ -145,7 +145,7 @@ return {
           "tachi: shoha",
           "upheaval",
         },
-      }
+      },
       {
         open_with = {
           "apex arrow",
@@ -165,7 +165,7 @@ return {
           "tachi: ageha",
           "tachi: shoha",
         },
-      }
+      },
     },
   },
   ["detonation"] = {
@@ -295,7 +295,7 @@ return {
           "tachi: jinpu",
           "tachi: yukikaze",
         },
-      }
+      },
       {
         open_with = {
           "aeolian edge",
@@ -413,7 +413,7 @@ return {
           "tornado kick",
           "true strike",
         },
-      }
+      },
       {
         open_with = {
           "blade: yu",
@@ -438,7 +438,7 @@ return {
           "tachi: jinpu",
           "tachi: mumei",
         },
-      }
+      },
     },
   },
   ["impaction"] = {
@@ -585,7 +585,7 @@ return {
           "vorpal blade",
           "weapon break",
         },
-      }
+      },
     },
   },
   ["induration"] = {
@@ -656,7 +656,7 @@ return {
           "tachi: rana",
           "tachi: yukikaze",
         },
-      }
+      },
       {
         open_with = {
           "tachi: gekko",
@@ -678,7 +678,7 @@ return {
           "tachi: yukikaze",
           "tornado kick",
         },
-      }
+      },
       {
         open_with = {
           "atonement",
@@ -729,7 +729,7 @@ return {
           "terminus",
           "zesho meppo",
         },
-      }
+      },
     },
   },
   ["liquefaction"] = {
@@ -910,7 +910,7 @@ return {
           "stringing pummel",
           "tachi: kagero",
         },
-      }
+      },
     },
   },
   ["reverberation"] = {
@@ -1085,7 +1085,7 @@ return {
           "vorpal thrust",
           "zesho meppo",
         },
-      }
+      },
       {
         open_with = {
           "apex arrow",
@@ -1138,7 +1138,7 @@ return {
           "tachi: gekko",
           "vorpal thrust",
         },
-      }
+      },
     },
   },
   ["scission"] = {
@@ -1270,7 +1270,7 @@ return {
           "vorpal scythe",
           "wasp sting",
         },
-      }
+      },
     },
   },
   ["transfixion"] = {
@@ -1362,7 +1362,7 @@ return {
           "vorpal scythe",
           "vorpal thrust",
         },
-      }
+      },
     },
   },
   ["distortion"] = {
@@ -1490,7 +1490,7 @@ return {
           "torcleaver",
           "vidohunir",
         },
-      }
+      },
       {
         open_with = {
           "apex arrow",
@@ -1562,7 +1562,7 @@ return {
           "vorpal scythe",
           "wasp sting",
         },
-      }
+      },
     },
   },
   ["fragmentation"] = {
@@ -1702,7 +1702,7 @@ return {
           "vorpal thrust",
           "zesho meppo",
         },
-      }
+      },
       {
         open_with = {
           "asuran fists",
@@ -1755,7 +1755,7 @@ return {
           "victory smite",
           "vidohunir",
         },
-      }
+      },
     },
   },
   ["fusion"] = {
@@ -1850,7 +1850,7 @@ return {
           "true strike",
           "weapon break",
         },
-      }
+      },
       {
         open_with = {
           "chant du cygne",
@@ -1909,7 +1909,7 @@ return {
           "wheeling thrust",
           "zesho meppo",
         },
-      }
+      },
     },
   },
   ["gravitation"] = {
@@ -2031,7 +2031,7 @@ return {
           "tachi: rana",
           "wildfire",
         },
-      }
+      },
       {
         open_with = {
           "aeolian edge",
@@ -2069,7 +2069,7 @@ return {
           "tachi: shoha",
           "upheaval",
         },
-      }
+      },
       {
         open_with = {
           "ruinator",
@@ -2094,7 +2094,7 @@ return {
           "tachi: mumei",
           "tachi: shoha",
         },
-      }
+      },
     },
   },
   ["darkness"] = {
@@ -2199,7 +2199,7 @@ return {
           "tachi: mumei",
           "torcleaver",
         },
-      }
+      },
       {
         open_with = {
           "chant du cygne",
@@ -2252,7 +2252,7 @@ return {
           "tachi: rana",
           "wildfire",
         },
-      }
+      },
       {
         open_with = {
           "gate of tartarus",
@@ -2281,7 +2281,7 @@ return {
           "swift blade",
           "tachi: rana",
         },
-      }
+      },
     },
   },
   ["light"] = {
@@ -2408,7 +2408,7 @@ return {
           "trueflight",
           "vidohunir",
         },
-      }
+      },
       {
         open_with = {
           "apex arrow",
@@ -2469,7 +2469,7 @@ return {
           "wheeling thrust",
           "zesho meppo",
         },
-      }
+      },
     },
   },
   ["darkness ii"] = {
@@ -2517,7 +2517,7 @@ return {
           "rudra's storm",
           "wildfire",
         },
-      }
+      },
     },
   },
   ["light ii"] = {
@@ -2589,7 +2589,7 @@ return {
           "uriel blade",
           "victory smite",
         },
-      }
+      },
     },
   },
 }
